@@ -1,0 +1,11 @@
+header {
+  border: 1px solid black;
+  height:300px;
+}
+.top-nav ul li {
+  border: 1px solid black;
+  display:inline;
+}
+.top-nav ul li a {
+  padding: 10px;
+}
